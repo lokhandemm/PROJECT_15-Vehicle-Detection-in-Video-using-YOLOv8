@@ -8,7 +8,7 @@ This project detects and tracks vehicles in a video using **YOLOv8** (You Only L
 - **Output:** Processed video with vehicle detection  
 
 ---
-
+ 
 ## 📖 What is YOLO?  
 
 **YOLO (You Only Look Once)** is a **deep learning-based object detection algorithm** known for its speed and accuracy. Unlike traditional object detection models that scan an image multiple times, YOLO processes the image in a **single forward pass** through a neural network, making it highly efficient.
