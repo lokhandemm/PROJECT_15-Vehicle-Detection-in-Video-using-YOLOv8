@@ -6,7 +6,7 @@ This project detects and tracks vehicles in a video using **YOLOv8** (You Only L
 - **Model Used:** YOLOv8  
 - **Frameworks:** OpenCV, Ultralytics  
 - **Output:** Processed video with vehicle detection  
-
+ 
 ---
  
 ## 📖 What is YOLO?  
