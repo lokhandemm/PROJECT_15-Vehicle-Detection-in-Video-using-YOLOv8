@@ -4,7 +4,7 @@
 This project detects and tracks vehicles in a video using **YOLOv8** (You Only Look Once) and **OpenCV**. The detected objects are highlighted with bounding boxes, and the output video is saved.
   
 - **Model Used:** YOLOv8  
-- **Frameworks:** OpenCV, Ultralytics  
+- **Frameworks:** OpenCV, Ultralytics   
 - **Output:** Processed video with vehicle detection  
  
 ---
