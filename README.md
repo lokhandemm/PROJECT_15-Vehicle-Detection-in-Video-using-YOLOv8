@@ -1,5 +1,5 @@
 # 🚗 Vehicle Detection in Video using YOLOv8         
-                                                               
+                                                                
 ## 📌 Overview      
 This project detects and tracks vehicles in a video using **YOLOv8** (You Only Look Once) and **OpenCV**. The detected objects are highlighted with bounding boxes, and the output video is saved.
    
